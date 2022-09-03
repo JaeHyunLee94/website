@@ -14,12 +14,13 @@ organizations:
     url: http://media.korea.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Physics Basded Animation and Rendering.
 
 # Interests to show in About widget
 interests:
   - Computer Graphics
   - Physics Based Animation
+  - Material Point Methods
   - Rendering
 
 # Education to show in About widget
@@ -40,12 +41,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.com/
   - icon: github
     icon_pack: fab
     link: https://github.com/LEE-JAE-HYUN179
@@ -67,8 +68,8 @@ email: 'leejaehyun1223@gmail.com'
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi my name is JaeHyun Lee.
+I currently do research in Physics Based Animation(PBA), especially in Material Point Methods.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
