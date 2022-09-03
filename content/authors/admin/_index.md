@@ -68,7 +68,8 @@ email: 'leejaehyun1223@gmail.com'
 highlight_name: true
 ---
 
-Hi my name is JaeHyun Lee.
+Hi my name is JaeHyun Lee.  
+
 I currently do research in Physics Based Animation(PBA), especially in Material Point Methods.
 
 
