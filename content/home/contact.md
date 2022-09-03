@@ -25,32 +25,31 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: leejaehyun1223@gmail.com
+  # phone: x
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    street: 145 Anam-ro
+    city: Seoul
+    region: Seongbuk-gu
+    postcode: '02841'
+    country: Republic of korea
+    country_code: South Korea
+  # coordinates:
+  #   latitude: '37.4275'
+  #   longitude: '-122.1697'
+  directions: 301A Woojung Hall of Informatics
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+    - 'Monday ~ Friday 10:00 to 17:00'
+  
+  # contact_links:
+  #   - icon: twitter
+  #     icon_pack: fab
+  #     name: DM Me
+  #     link: 'https://twitter.com/Twitter'
+  #   - icon: video
+  #     icon_pack: fas
+  #     name: Zoom Me
+  #     link: 'https://zoom.com'
 
 design:
   columns: '2'
