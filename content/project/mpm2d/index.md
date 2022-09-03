@@ -1,9 +1,9 @@
 ---
-title: Example Project
+title: 2d Snow Simulation
 summary: An example of using the in-built project page.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Graphics
+date: '2021-12-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
