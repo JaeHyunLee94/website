@@ -15,7 +15,7 @@ image:
 links:
   - icon: github
     icon_pack: fab
-    name: link
+    name: Link
     url: https://github.com/LEE-JAE-HYUN179/Cloth-simulation
 url_code: ''
 url_pdf: ''
@@ -30,6 +30,9 @@ url_video: ''
 # slides: example
 ---
 
-Simple mass-spring cloth simulation with particle system.
-I rendered the scene with opengl.
+Simple Rigid Body + Cloth(deformable body) + partice system simulation with OpenGL
+
+Term Project of Korea University Graphics Course.
+
+
 

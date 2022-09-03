@@ -29,6 +29,8 @@ content:
       tag: '*'
     - name: Graphics
       tag: Graphics
+    - name: AI
+      tag: AI
     - name: Other
       tag: Other
 
