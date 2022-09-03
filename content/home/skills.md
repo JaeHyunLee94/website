@@ -37,6 +37,10 @@ feature:
     icon_pack: custom
     name: Python
   - description: 50%
+    icon: taichi
+    icon_pack: custom
+    name: Taichi Lang
+  - description: 50%
     icon: opengl
     icon_pack: custom
     name: OpenGL
@@ -44,11 +48,11 @@ feature:
     icon: cuda
     icon_pack: custom
     name: Nvidia Cuda
-   - description: 50%
+  - description: 50%
     icon: cmake
     icon_pack: custom
     name: CMake
-   - description: 20%
+  - description: 20%
     icon: blender
     icon_pack: custom
     name: Blender
