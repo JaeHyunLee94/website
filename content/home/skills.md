@@ -28,7 +28,7 @@ feature:
   #   icon: camera-retro
   #   icon_pack: fas
   #   name: Photography
-    - description: 90%
+  - description: 90%
     icon: cpp
     icon_pack: custom
     name: C+++
