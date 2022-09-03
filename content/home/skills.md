@@ -28,11 +28,30 @@ feature:
   #   icon: camera-retro
   #   icon_pack: fas
   #   name: Photography
-  - description: 90%
+  - description: 70%
     icon: cpp
     icon_pack: custom
-    name: C+++
-    
+    name: C++
+  - description: 50%
+    icon: python
+    icon_pack: custom
+    name: Python
+  - description: 50%
+    icon: opengl
+    icon_pack: custom
+    name: OpenGL
+  - description: 20%
+    icon: cuda
+    icon_pack: custom
+    name: Nvidia Cuda
+   - description: 50%
+    icon: cmake
+    icon_pack: custom
+    name: CMake
+   - description: 20%
+    icon: blender
+    icon_pack: custom
+    name: Blender
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
