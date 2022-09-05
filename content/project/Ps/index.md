@@ -1,9 +1,9 @@
 ---
-title: 2d Snow Simulation
-summary: 2D Implementation of [Material Point Method for snow simulation](https://www.math.ucla.edu/~jteran/papers/SSCTS13.pdf).
+title: Problem solving
+summary: Ps repo
 tags:
-  - Graphics
-date: '2021-12-27T00:00:00Z'
+  - Other
+date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -16,7 +16,7 @@ links:
   - icon: github
     icon_pack: fab
     name: Link
-    url: https://github.com/LEE-JAE-HYUN179/mpm2d
+    url: https://github.com/LEE-JAE-HYUN179/Spatial-hasing
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -29,6 +29,8 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 ---
 
-Explanation of MPM in 500~ lines of code.
-This repo is 2D Implementation of [Material Point Method for snow simulation](https://www.math.ucla.edu/~jteran/papers/SSCTS13.pdf).
-This code is for Educational purpose not parallelized and optimized!!
+Objective: Solve 1000 problem before graduate from school This repository is for Problem solving in online judge site
+
+Problem solving c/c++ or Python3
+
+c/c++ has written in vc2017 environment but some code has written in gcc compiler Python has written in Python3 and anaconda env
