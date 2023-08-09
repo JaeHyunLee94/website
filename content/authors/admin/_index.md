@@ -14,14 +14,14 @@ organizations:
     url: http://media.korea.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Physics Basded Animation and Rendering.
+bio: My research interests include Physics Based Animation (PBA) , with a specific focus on deformable bodies. And I'm free to expand my research interest into something related to PBA.
 
 # Interests to show in About widget
 interests:
   - Computer Graphics
   - Physics Based Animation
-  - Material Point Methods
-  - Rendering
+  - Deformable body
+  - Fluid
 
 # Education to show in About widget
 education:
@@ -69,7 +69,8 @@ highlight_name: true
 ---
 
 Hi there, my name is JaeHyun Lee.  
-I currently do research in Physics Based Animation(PBA), especially in Material Point Methods.
+I currently do research in Physics Based Animation (PBA), with a specific focus on Deformable bodies. And I'm free to expand my research interest into anything related to PBA.
+
 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

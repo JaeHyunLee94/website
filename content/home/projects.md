@@ -27,8 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Graphics
-      tag: Graphics
+    - name: PBA
+      tag: PBA
     - name: AI
       tag: AI
     - name: Other

@@ -1,15 +1,15 @@
 ---
-title: 2d Snow Simulation
-summary: 2D Implementation of [Material Point Method for snow simulation](https://www.math.ucla.edu/~jteran/papers/SSCTS13.pdf).
+title: 2D Snow Simulation
+summary: 2D Implementation of [Material Point Method for snow simulation](https://dl.acm.org/doi/10.1145/2461912.2461948).
 tags:
-  - Graphics
+  - PBA
 date: '2021-12-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 links:

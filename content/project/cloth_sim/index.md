@@ -2,7 +2,7 @@
 title: Cloth Simulation
 summary: Simple mass spring system
 tags:
-  - Graphics
+  - PBA
 date: '2020-11-29T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

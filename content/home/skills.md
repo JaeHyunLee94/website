@@ -28,31 +28,31 @@ feature:
   #   icon: camera-retro
   #   icon_pack: fas
   #   name: Photography
-  - description: 70%
+  - description:
     icon: cpp
     icon_pack: custom
     name: C++
-  - description: 50%
+  - description:
     icon: python
     icon_pack: custom
     name: Python
-  - description: 50%
+  - description:
     icon: taichi
     icon_pack: custom
     name: Taichi Lang
-  - description: 50%
+  - description:
     icon: opengl
     icon_pack: custom
     name: OpenGL
-  - description: 20%
+  - description:
     icon: cuda
     icon_pack: custom
     name: Nvidia Cuda
-  - description: 50%
+  - description:
     icon: cmake
     icon_pack: custom
     name: CMake
-  - description: 20%
+  - description:
     icon: blender
     icon_pack: custom
     name: Blender
