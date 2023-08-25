@@ -20,8 +20,8 @@ bio: My research interests include Physics Based Animation (PBA) , with a specif
 interests:
   - Computer Graphics
   - Physics Based Animation
-  - Deformable body
-  - Fluid
+  - Deformable bodies
+  - Fluids
 
 # Education to show in About widget
 education:
