@@ -18,8 +18,9 @@ bio: My research interests include Physics Based Animation (PBA) , with a specif
 
 # Interests to show in About widget
 interests:
-  - Computer Graphics
   - Physics Based Animation
+  - Scientific Computing
+  - Numerical methods
   - Deformable bodies
   - Fluids
 
@@ -31,6 +32,9 @@ education:
       year: 2021~
     - course: B.S in Mechanical Engineering
       institution: Korea University
+      year: 2021
+    - course: B.S in Computer Science
+      institution: Korea University (double major)
       year: 2021
 
 # Social/Academic Networking
