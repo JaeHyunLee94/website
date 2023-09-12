@@ -11,7 +11,7 @@ weight: 80
 
 ---
 
-- Semestersssss High Honors <br> Korea University (Spring 2017 – Spring 2020 )
+- Semester High Honors <br> Korea University (Spring 2017 – Spring 2020 )
 <br>
 <br>
 - Dean’s List <br> Korea University (Spring 2018)
