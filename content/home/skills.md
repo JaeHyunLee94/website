@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 70
 
 title: Skills
 subtitle:
@@ -47,7 +47,7 @@ feature:
   - description:
     icon: cuda
     icon_pack: custom
-    name: Nvidia Cuda
+    name: Nvidia CUDA
   - description:
     icon: cmake
     icon_pack: custom
