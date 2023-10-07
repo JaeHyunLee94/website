@@ -23,7 +23,7 @@ weight: 80
 - Great Honor <br> Korea University (Graduation)
 <br>
 <br>
-- Best Research award <br> Korea Electronics Association (KEA) (Feb. 2022)
+- Best Research award <br> Korea Electronics Association (KEA) (Feb. 2021)
 <br>
 <br>
 - Best Research award <br> Korea Electronics Association (KEA) (Aug. 2023)
