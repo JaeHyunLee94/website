@@ -1,6 +1,6 @@
 ---
 title: Real Time Age predictor
-summary: Real Time Age predictor trained with CNN network.
+summary: Real Time Age predictor trained with CNN.
 tags:
   - AI
 date: '2020-07-08T00:00:00Z'
