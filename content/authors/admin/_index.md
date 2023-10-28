@@ -6,7 +6,7 @@ title: JaeHyun Lee
 superuser: true
 
 # Role/position/tagline
-role: M.S program
+role: Master's degree program
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,7 +18,7 @@ bio: My research interests include Physics Based Animation (PBA) , with a specif
 
 # Interests to show in About widget
 interests:
-  - Physics Based Animation
+  - Physics-Based Animation
   - Scientific Computing
   - Numerical methods
   - Deformable bodies
@@ -27,14 +27,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.S in Computer Science
+    - course: M.S. in Computer Science
       institution: Korea University
       year: 2021~
-    - course: B.S in Mechanical Engineering
+    - course: B.S. in Mechanical Engineering
       institution: Korea University
       year: 2021
-    - course: B.S in Computer Science
-      institution: Korea University (double major)
+    - course: B.S. in Computer Science and Engineering
+      institution: Korea University (Double major)
       year: 2021
 
 # Social/Academic Networking
@@ -73,7 +73,7 @@ highlight_name: true
 ---
 
 Hi there, my name is JaeHyun Lee.  
-I currently do research in Physics Based Animation (PBA), with a specific focus on Deformable bodies. And I'm free to expand my research interest into anything related to PBA.
+I currently do research in Physics-Based Animation (PBA), with a specific focus on Deformable bodies. And I'm free to expand my research interest into anything related to PBA.
 
 
 

@@ -29,4 +29,5 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 ---
 
-COSE362 Machine Learning undergraduate project to predict the outcome of a soccer match with from-scratch ML algo
+COSE362 Machine Learning undergraduate project to predict the outcome of a soccer match with from-scratch ML algorighm.
+For more information, please visit our [project page](https://sites.google.com/view/froilanchoi/projects/soccer)!!
