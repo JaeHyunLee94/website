@@ -10,7 +10,7 @@ role: Master's degree program
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Korea University, Media Lab
+  - name: Media Lab, Korea University
     url: http://media.korea.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
