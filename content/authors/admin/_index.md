@@ -29,7 +29,7 @@ education:
   courses:
     - course: M.S. in Computer Science and Engineering
       institution: Korea University
-      year: 2021~
+      year: 2024
     - course: B.S. in Mechanical Engineering
       institution: Korea University
       year: 2021
