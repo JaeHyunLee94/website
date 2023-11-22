@@ -27,14 +27,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.S. in Computer Science and Engineering
+    - course: M.S. in Computer Science
       institution: Korea University
       year: 2024
+    - course: B.S. in Computer Science
+      institution: Korea University (Double major)
+      year: 2021
     - course: B.S. in Mechanical Engineering
       institution: Korea University
-      year: 2021
-    - course: B.S. in Computer Science and Engineering
-      institution: Korea University (Double major)
       year: 2021
 
 # Social/Academic Networking
