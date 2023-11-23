@@ -27,6 +27,9 @@ weight: 80
 <br>
 <br>
 - Best Research award <br> Korea Electronics Association (KEA) (Aug. 2023)
+<br>
+<br>
+- Best Industry-Academic Project Award <br> Ministry of Trade, Industry and Energy (MOTIE) (Nov. 2023)
 
 
 
