@@ -56,7 +56,7 @@ social:
     link: https://github.com/LEE-JAE-HYUN179
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/lee-jae-hyun-4970921aa/
+    link: https://www.linkedin.com/in/jaehyun-lee-4970921aa/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
