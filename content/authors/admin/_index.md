@@ -27,15 +27,17 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Ph.D. in Computer Science
+      institution: University of Wisconsin-madison
+      year: 2024 ~ present
+
     - course: M.S. in Computer Science
       institution: Korea University
-      year: 2024
-    - course: B.S. in Computer Science
-      institution: Korea University (Double major)
-      year: 2021
+      year: 2021 ~ 2024
+
     - course: B.S. in Mechanical Engineering
       institution: Korea University
-      year: 2021
+      year: 2015 ~ 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
