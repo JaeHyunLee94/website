@@ -55,7 +55,7 @@ social:
   #   link: https://scholar.google.com/
   - icon: github
     icon_pack: fab
-    link: https://github.com/LEE-JAE-HYUN179
+    link: https://github.com/JaeHyunLee94
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jaehyun-lee-4970921aa/
