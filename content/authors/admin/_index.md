@@ -6,15 +6,16 @@ title: JaeHyun Lee
 superuser: true
 
 # Role/position/tagline
-role: Master's degree program
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Media Lab, Korea University
-    url: http://media.korea.ac.kr/
+  - name: University of Wisconsin–Madison
+    url: https://www.wisc.edu/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include Physics Based Animation (PBA) , with a specific focus on deformable bodies. And I'm free to expand my research interest into something related to PBA.
+# # Short bio (displayed in user profile at end of posts)
+# bio: My research interests include Physics Based Animation (PBA) , with a specific focus on deformable bodies. And I'm free to expand my research interest into something related to PBA.
+
 
 # Interests to show in About widget
 interests:
@@ -27,7 +28,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Computer Science
+    - course: Ph.D. in Computer Sciences
       institution: University of Wisconsin-madison
       year: 2024 ~ present
 
@@ -44,9 +45,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '/#contact'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/
@@ -76,6 +77,8 @@ highlight_name: true
 
 Hi there, my name is JaeHyun Lee.  
 I currently do research in Physics-Based Animation (PBA), with a specific focus on Deformable bodies. And I'm free to expand my research interest into anything related to PBA.
+
+Email: jaehyun.lee [at] wisc [dot] edu
 
 
 
