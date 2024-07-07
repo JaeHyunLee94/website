@@ -15,19 +15,19 @@ main:
     url: '#featured'
     weight: 20
 
-  # - name: Projects
-  #   url: '#projects'
-  #   weight: 30
+  - name: Projects
+    url: '#projects'
+    weight: 30
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
-  - name: Scholarships
-    url: '#scholarships'
-    weight: 40
+  # - name: Scholarships
+  #   url: '#scholarships'
+  #   weight: 40
 
-  - name: Awards
-    url: '#awards'
-    weight: 45
+  # - name: Awards
+  #   url: '#awards'
+  #   weight: 45
 
   - name: CV
     url: uploads/resume.pdf
